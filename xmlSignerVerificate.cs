@@ -27,7 +27,7 @@ public class VerifyXML
                 // Load an XML file into the XmlDocument object.
                 PreserveWhitespace = true
             };
-            xmlDoc.Load("../signed_file.xml");
+            xmlDoc.Load("Add xml file path");
 
             // Verify the signature of the signed XML.
             Console.WriteLine("Verifying signature...");

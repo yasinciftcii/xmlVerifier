@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l/+PVLZuJXw=",
+  "dgSpecHash": "Vmr2VYSqsfI=",
   "success": true,
-  "projectFilePath": "D:\\Software\\C#\\Project\\odev1\\xmlVerifier\\xmlVerifier.csproj",
+  "projectFilePath": "D:\\Software\\GitHub\\xmlVerifier\\xmlVerifier.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yasin\\.nuget\\packages\\pkcs11interop\\5.1.2\\pkcs11interop.5.1.2.nupkg.sha512",
     "C:\\Users\\yasin\\.nuget\\packages\\system.formats.asn1\\8.0.0\\system.formats.asn1.8.0.0.nupkg.sha512",
